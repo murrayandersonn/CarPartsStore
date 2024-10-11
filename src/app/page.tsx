@@ -1,7 +1,7 @@
 import React from "react";
-import HeroSection from "./components/HeroSection.tsx";
-import ReviewsAndSales from "./components/ReviewsAndSales.tsx";
-import Navbar from "./components/Navbar.tsx";
+import HeroSection from "./components/HeroSection";
+import ReviewsAndSales from "./components/ReviewsAndSales";
+import Navbar from "./components/Navbar";
 
 export default function Home() {
   return (
